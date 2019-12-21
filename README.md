@@ -20,8 +20,8 @@ Use-case — we will be doing some face recognition, face detection stuff and fu
 1.pip install OpenCV-python</br>2.Haar cascades for Face detection</br>3.Gender Recognition with CNN</br>4.Age Recognition with CNN</br> 
 
  <h6>For Download</h6> 
- opencv link it here:https://opencv.org
- Hear cascade link it here:https://github.com/opencv/opencv/blob/master/data/haarcascades
+ opencv link it here:https://opencv.org</br> 
+Hear cascade link it here:https://github.com/opencv/opencv/blob/master/data/haarcascades
  prtotxt and .caffemodel from this link :https://talhassner.github.io/home/publication/2015_CVPR
 
 How it works
