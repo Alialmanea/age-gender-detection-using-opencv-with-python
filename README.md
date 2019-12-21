@@ -12,7 +12,7 @@ Another example could be AgeBot which is an Android App that determines your age
 Inspired by the above use cases we are going to build a simple Age and Gender detection model in this detailed article. So let's start with our use-case:
 Use-case — we will be doing some face recognition, face detection stuff and furthermore, we will be using CNN (Convolutional Neural Networks) for age and gender predictions from a youtube video, you don’t need to download the video just the video URL is fine. The interesting part will be the usage of CNN for age and gender predictions on video URLs.
 
-<h6>Source:<a href="https://www.kiwi-digital.com/produkty/age-gender-detection"></h6>
+<h6>Source:https://www.kiwi-digital.com/produkty/age-gender-detection</h6>
 
 
 <h5>Requirements</h5> :
