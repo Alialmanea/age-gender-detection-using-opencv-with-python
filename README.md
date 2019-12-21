@@ -15,9 +15,16 @@ Use-case — we will be doing some face recognition, face detection stuff and fu
 <h6>Source:https://www.kiwi-digital.com/produkty/age-gender-detection</h6>
 
 
-<h5>Requirements</h5> :
-pip install OpenCV-python
+<h5>Requirements :</h5>
+1.pip install OpenCV-python 
+2.Haar cascades for Face detection 
+3.Gender Recognition with CNN 
+4.Age Recognition with CNN
 
+ <h6>For Download</h6> 
+ opencv link it here:https://opencv.org
+ Hear cascade link it here:https://github.com/opencv/opencv/blob/master/data/haarcascades
+ prtotxt and .caffemodel from this link :https://talhassner.github.io/home/publication/2015_CVPR
 
 How it works
 
