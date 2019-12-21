@@ -28,9 +28,9 @@ def video_detector(gender_net):
             cv2.rectangle(frame, (x, y), (x + w, y + h), (255, 0,0), 3)
             # Get Face
             face_img = gray[y:y + h, h:h + w].copy()
-            blob=cv2.dnn.blobFromImage(face_img,1,(277,277),MODEL_MEAN_VALUES,swapRB=False)
+            blob=cv2.dnn.blobFromImage(face_img,1,(244,244),MODEL_MEAN_VALUES,swapRB=False)
             #predicct gender
-        cv2.imshow('Capturing', frame)
+        cv2.imshow('Myproject', frame)
         key=cv2.waitKey(1)
         if key == 27:
             break
