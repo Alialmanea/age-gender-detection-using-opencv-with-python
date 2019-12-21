@@ -17,10 +17,7 @@ Use-case — we will be doing some face recognition, face detection stuff and fu
 
 <h5>Requirements :</h5>
 
-1.pip install OpenCV-python</br> 
-2.Haar cascades for Face detection</br>  
-3.Gender Recognition with CNN</br>  
-4.Age Recognition with CNN</br> 
+1.pip install OpenCV-python</br>2.Haar cascades for Face detection</br>3.Gender Recognition with CNN</br>4.Age Recognition with CNN</br> 
 
  <h6>For Download</h6> 
  opencv link it here:https://opencv.org
