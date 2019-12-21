@@ -2,7 +2,7 @@
 
 
 
-<a href="https://imgflip.com/gif/3k65dx"><img src="https://i.imgflip.com/3k65dx.gif" title="made at imgflip.com"/></a>
+
 <a href="https://imgflip.com/gif/3k54ya"><img src="https://i.imgflip.com/3k54ya.gif" title="made at imgflip.com"/></a>
 
 
@@ -81,3 +81,5 @@ We use the argparse library to create an argument parser so we can get the image
 For face, age, and gender, initialize protocol buffer and model.
 
 Initialize the mean values for the model and the lists of age ranges and genders to classify from.
+
+<a href="https://imgflip.com/gif/3k65dx"><img src="https://i.imgflip.com/3k65dx.gif" title="made at imgflip.com"/></a>
